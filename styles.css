@@ -8,8 +8,8 @@ img {
 }
 
     .portrait {
-        height: 80px;
-        width: 30px;
+        height: 80%;
+        width: 80%;
     }
 
     .landscape {
@@ -21,4 +21,3 @@ img {
         height: 75px;
         width: 75px;
     }
-    
